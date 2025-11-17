@@ -1,16 +1,22 @@
-## Hi there 👋
 
-<!--
-**luanaraujo3131/luanaraujo3131** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  # 👋 I'm Luan
 
-Here are some ideas to get you started:
+🎓 **Computer Science student**  
+💻 Focused on **Back-end development**  
+⚙️ Deeply interested in **low-level computing, systems, and core technical foundations**  
+🚀 Committed to continuous learning and building projects that enhance my technical expertise  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tech Stack & Interests
+- Back-end development with Java/Spring
+- Systems programming and low-level computing principles
+- A deeply interest in quantum computing
+- Mobile development (in progress)  
+- Algorithms, data structures, and software architecture  
+
+---
+
+### 📫 Connect with Me
+luanaraujo3131@icloud.com
+
